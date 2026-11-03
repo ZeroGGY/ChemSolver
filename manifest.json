@@ -1,0 +1,8 @@
+{
+  "short_name": "ChemSolver",
+  "name": "ChemSolver",
+  "start_url": "https://chemsolver.streamlit.app/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
